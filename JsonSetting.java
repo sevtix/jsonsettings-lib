@@ -15,7 +15,8 @@ public class JsonSetting {
 	private File backendfile;
 	private JsonElement json;
 
-	/* This Application was made by Sevtix
+	/* 
+	 * This Library was made by Sevtix
 	 * Build date: 13th October 2k17
 	 */
 	
