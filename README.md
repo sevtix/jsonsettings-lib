@@ -8,6 +8,7 @@ Gson: https://github.com/google/gson
 <br>public static main(String[] args){
     <br>
     <br>&#8195;File f = new File(fullpathtofile);
+    <br>
     <br>&#8195;JsonSetting settings = new JsonSettings(f);
     <br>
     <br>&#8195;settings.setAsString("key", "value");
