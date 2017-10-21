@@ -88,7 +88,7 @@ public class JsonSetting {
 	// DETAILED ERROR PRINT FUNCTION
 	
 	private void printError(Exception ex) {
-		System.out.println("JsonSettingsAPI > "+ex.getClass().getSimpleName() + ":" + ex.getMessage());
+		System.out.println("jsonsettings-lib > "+ex.getClass().getSimpleName() + ":" + ex.getMessage());
 	}
 
 }
