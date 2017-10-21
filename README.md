@@ -1,10 +1,10 @@
 # jsonsettings-lib
 A simple json settings library to get and set values
 
-Dependencies:
-  Gson: https://github.com/google/gson
+# Dependencies:
+Gson: https://github.com/google/gson
  
-Usage:  
+# Sample:  
 <br>public static main(String[] args){
     <br>File f = new File(fullpathtofile);
     <br>JsonSetting settings = new JsonSettings(f);
